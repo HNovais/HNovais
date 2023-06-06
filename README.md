@@ -31,10 +31,10 @@
 # 🏫 College Projects
 
 - [**Racing Simulator**](https://github.com/HNovais/DSS) - A racing game in Java, with a MySQL database
-- [**TOML-JSON Converter**]() - 
+- [**TOML-JSON Converter**](https://github.com/HNovais/PL) - TOML-JSON converter using Python and PLY library
 - [**Solar System Model**](https://github.com/HNovais/CG) - A solar system model developed using Python, CMake and C++
-- [**Search Algorithms**]() - 
-- [**Webapp for Online Fairs**]() - 
+- [**Search Algorithms**](https://github.com/HNovais/IA) - Search algorithms for the game VectorRace in Python
+- [**Webapp for Online Fairs**](https://github.com/HNovais/EZFair) - Webapp for online fairs developed using .NET Framework
 
 # 👨‍💻 Personal Projects
 
