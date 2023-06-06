@@ -30,9 +30,9 @@
 
 # 🏫 College Projects
 
-- [**Racing Simulator**]() - 
-- [**TOML-JSON Converter**]() -
-- [**Solar System Model**]() -
+- [**Racing Simulator**](https://github.com/HNovais/DSS) - A racing game in Java, with a MySQL database
+- [**TOML-JSON Converter**]() - 
+- [**Solar System Model**](https://github.com/HNovais/CG) - A solar system model developed using Python, CMake and C++
 - [**Search Algorithms**]() - 
 - [**Webapp for Online Fairs**]() - 
 
