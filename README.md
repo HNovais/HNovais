@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Hugo Novais!
+<h1> Hi there 👋, I'm Hugo Novais! </h1>
 
 🙋‍♂️ About Me:
 
