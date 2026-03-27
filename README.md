@@ -2,9 +2,8 @@
 
 🙋‍♂️ About Me:
 
-- I recently graduated in Software Engineering from Universidade do Minho
-- I'm eager to launch my career in this field
-- I'm passionate about technology and engineering
+- I have a bachelor's degree in Software Engineering and a master's degree in Aerospace Engineering from Universidade do Minho
+- I'm passionate about both fields equally, as they leverage technology and engineering to the highest level
 
 📫 How to reach me:
 
@@ -38,5 +37,5 @@
 
 # 👨‍💻 Personal Projects
 
-- [**E-Commerce Website**](https://github.com/HNovais/Unnamed-Project) - Currently working on it!
+- [**E-Commerce Website**](https://github.com/HNovais/Unnamed-Project) 
 
